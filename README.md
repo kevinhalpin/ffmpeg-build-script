@@ -59,14 +59,14 @@ Installation
 Open your command line and run (needs curl to be installed):
 
 ```bash
-bash <(curl -s "https://raw.githubusercontent.com/markus-perl/ffmpeg-build-script/master/web-install.sh?v1")
+bash <(curl -s "https://raw.githubusercontent.com/kevinhalpin/ffmpeg-build-script/master/web-install.sh?v1")
 ```
 This command downloads the build script and automatically starts the build process.
 
 ### Common installation
 
 ```bash
-git clone https://github.com/markus-perl/ffmpeg-build-script.git
+git clone https://github.com/kevinhalpin/ffmpeg-build-script.git
 cd ffmpeg-build-script
 ./build-ffmpeg --help
 ```
